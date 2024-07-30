@@ -1,0 +1,4 @@
+<launch>
+     <arg name="port" default="/dev/ttyACM0"/>
+     <node name="gnss_node" pkg="gnss_package" type="gnss_driver.py" output="screen" args="$(arg port)"/>
+</launch>

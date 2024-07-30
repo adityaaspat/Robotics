@@ -1,0 +1,4 @@
+Have been trying to upload files for the past hour, finally with the lfs command was able to do so, the lfs command has added all .bag files again and hence the latest commit message is reflected everywhere. The zip files also were too big to be pushed and hence I have missed the deadline, please allow me to not lose marks for this sincere mistake.
+500mb .bag file was converted to a 250mb zip file.
+The matlab code is also given along with the data in a zip file.
+Structure works fine.

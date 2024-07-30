@@ -1,0 +1,3 @@
+In my analysis python file, I have used the same code for everything and just changed the directory to get different graohs, also smalled calculations like mean error and std devs have been calculated inn smaller cells so I dont have a dedicated code for each cause it wasnt applicable for every dataset.
+package name=gnss_package
+driver= gnss_driver.py
