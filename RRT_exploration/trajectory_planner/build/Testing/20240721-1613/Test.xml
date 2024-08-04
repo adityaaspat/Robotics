@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240721-1613-Experimental"
+	Name="aditya-ASUS-TUF-Gaming-A15-FA507RE-FA577RE"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="aditya-ASUS-TUF-Gaming-A15-FA507RE-FA577RE"
+	OSRelease="6.5.0-44-generic"
+	OSVersion="#44~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Jun 18 14:36:16 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="68"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15218"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4441.05"
+	>
+	<Testing>
+		<StartDateTime>Jul 21 13:59 EDT</StartDateTime>
+		<StartTestTime>1721584748</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 21 13:59 EDT</EndDateTime>
+		<EndTestTime>1721584748</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,12 @@
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/uninstall.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/trajectory_planner_uninstall.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/kinova_planner.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/slam_2D_planner.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/mppi_controller.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/test.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/edit_cache.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/rebuild_cache.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/list_install_components.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/install.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/install/local.dir
+/home/aditya/ros2_ws/src/trajectory_planner/build/CMakeFiles/install/strip.dir
